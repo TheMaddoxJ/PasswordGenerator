@@ -43,3 +43,8 @@ The following image shows the web application's appearance and functionality:
 https://user-images.githubusercontent.com/123782105/224796593-f58ba4fe-6b36-4322-88cd-329a4e623bc7.mp4
 
 
+## URL's
+
+GitHub URL: https://github.com/TheMaddoxJ/PasswordGenerator
+
+Deployed URL:
