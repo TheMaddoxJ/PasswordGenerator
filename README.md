@@ -47,4 +47,4 @@ https://user-images.githubusercontent.com/123782105/224796593-f58ba4fe-6b36-4322
 
 GitHub URL: https://github.com/TheMaddoxJ/PasswordGenerator
 
-Deployed URL:
+Deployed URL: https://themaddoxj.github.io/PasswordGenerator/
