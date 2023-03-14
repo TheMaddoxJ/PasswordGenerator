@@ -32,8 +32,19 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Final Product Image
+## Finished Product
 
 The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+
+
+
+https://user-images.githubusercontent.com/123782105/224796593-f58ba4fe-6b36-4322-88cd-329a4e623bc7.mp4
+
+
+## URL's
+
+GitHub URL: https://github.com/TheMaddoxJ/PasswordGenerator
+
+Deployed URL:
